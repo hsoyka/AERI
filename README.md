@@ -1,7 +1,11 @@
 # AERI
 This repo contains conference programs and files from AERI (Archival Education and Research Institute), as well as datasets compiled by the authors that were derived from the programs and websites of each of the institutes held between 2009-2017. 
 
-Given the nature of the annual institute, each host institution and organizing committee has used their own systems, organizational schemes, and methods for staging and providing access. This has presented some common incompatibilities, technical issues, and unfortunately, data loss. Whenever possible, we have used the host committee site as the primary source of information for this set of files. Those URLS are listed below, by year. Notes are also provided where more than one source was used to determine the content. 
+
+## Background and Methods
+
+The AERI project was initially developed with significant funding support from the Institute of Museum and Library Services. Given the nature of funding for the annual institute, each host institution and organizing committee has used their own systems, organizational schemes, and methods for staging and providing access. This has presented some common incompatibilities, technical issues, and unfortunately, data loss. Whenever possible, we have used the site and information that was created and provided by the host committee as the primary source of information for this set of files. Those URLS are listed below, by year. If the original website created by the host institution/committee no longer exists, the UCLA AERI URL for that year has been used. Wikis and websites for the 2010 and 2011 AERIs are no longer publicly accessible or functional as of 2017.
+Notes are also provided within the datasets where more than one source was used to determine the content. 
 
 * 2009: University of California, Los Angeles: https://aeri2009.wordpress.com/conference-schedule/
 * 2010: University of Michigan: https://aeri.gseis.ucla.edu/2010.htm
@@ -12,10 +16,9 @@ Given the nature of the annual institute, each host institution and organizing c
 * 2015: University of Maryland: http://aeri2015.umd.edu/
 * 2016: Kent State University: https://www.kent.edu/iSchool/archival-education-and-research-institute-aeri-2016
 * 2017: University of Toronto: http://aeri2017.org/
-* 2018: University of Alabama [included here only for future reference; 2018 abstracts have not yet been announced and were not compiled for this study] 
+* 2018: University of Alabama [included here only for reference; 2018 abstracts have not yet been announced and were not compiled for this study] 
 
 
-In cases where the website has been removed or links are broken, we looked to the main AERI websites, hosted by UCLA. Those links are: 1) https://aeri.gseis.ucla.edu/index.htm  and 2) http://aeri.website/
-
+In cases where the website has been removed or links are broken, we looked for information from the main AERI websites, hosted by UCLA. Those links are: 1) https://aeri.gseis.ucla.edu/index.htm  and 2) http://aeri.website/
 
 In situations where information could still not be found, we reached out directly to the lead faculty/committee chair for the host institution for those years. 
