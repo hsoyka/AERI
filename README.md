@@ -9,10 +9,10 @@ The Building the Future of Archival Education and Research Initiative represents
 Given the nature of funding and support for the annual institute, each host/partner institution and organizing committee has used their own systems, organizational schemes, and methods for staging and providing access. This has presented some common incompatibilities, technical issues, and unfortunately, data loss. Whenever possible, we have used the site and information that was created and provided by the host committee as the primary source of information for this set of files. Those URLS are listed below, by year. If the original website created by the host institution/committee no longer exists, the UCLA AERI URL for that year has been used. Wikis and websites for the 2010 and 2011 AERIs are no longer publicly accessible or functional as of 2017.
 Notes are also provided within the datasets where more than one source was used to determine the content. 
 
-* 2009: University of California, Los Angeles: https://aeri2009.wordpress.com/conference-schedule/
+* 2009: University of California, Los Angeles: https://aeri.gseis.ucla.edu/2009.htm
 * 2010: University of Michigan: https://aeri.gseis.ucla.edu/2010.htm
 * 2011: Simmons College: https://aeri.gseis.ucla.edu/2011.html
-* 2012: University of California, Los Angeles: http://aeri.website/aeri-2012/
+* 2012: University of California, Los Angeles: https://aeri2012.wordpress.com/
 * 2013: University of Texas at Austin: https://www.ischool.utexas.edu/aeri2013/index.html
 * 2014: University of Pittsburgh: http://www.ischool.pitt.edu/aeri2014/
 * 2015: University of Maryland: http://aeri2015.umd.edu/
