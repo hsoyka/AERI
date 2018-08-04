@@ -18,7 +18,7 @@ Notes are also provided within the datasets where more than one source was used 
 * 2015: University of Maryland: http://aeri2015.umd.edu/
 * 2016: Kent State University: https://www.kent.edu/iSchool/archival-education-and-research-institute-aeri-2016
 * 2017: University of Toronto: http://aeri2017.org/
-* 2018: University of Alabama [included here only for reference; 2018 abstracts have not yet been announced and were not compiled for this study] 
+* 2018: University of Alabama: https://aeri2018.ua.edu/
 
 
 In cases where the website has been removed or links are broken, we looked for information from the main AERI websites, hosted by UCLA. Those links are: 1) https://aeri.gseis.ucla.edu/index.htm  and 2) http://aeri.website/
