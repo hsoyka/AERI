@@ -1,5 +1,5 @@
 # AERI
-This repo contains conference programs and files from AERI (Archival Education and Research Institute), as well as datasets compiled by the authors that were derived from the programs and websites of each of the institutes held between 2009-2017. 
+This repo contains conference programs and files from AERI (Archival Education and Research Institute), as well as datasets compiled by the authors that were derived from the programs and websites of each of the institutes held between 2009-2018. 
 
 
 ## Background and Methods
