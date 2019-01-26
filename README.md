@@ -18,7 +18,7 @@ Each summer, AERI hosts annual institutes (Archival Education and Research Insti
 ## Sources
 Notes are also provided within the datasets on the source of content, with particular notation to content from sources other than an institute program. 
 
-## Websites
+### Websites
 
 * 2009: University of California, Los Angeles: https://aeri.gseis.ucla.edu/2009.htm
 * 2010: University of Michigan: https://aeri.gseis.ucla.edu/2010.htm
@@ -37,7 +37,7 @@ In cases where the website has been removed or links are broken, we looked for i
 In situations where information could still not be found, we reached out directly to the lead faculty/committee chair for the host institution for those years. For the years 2011 and 2012, we contacted participants directly to fill in gaps in the data. Data received directly from respondents is located in the datasets for their respective years. 
 
 
-## Programs
+### Programs
 Programs collected from the institute websites and the host institutions may be found in this repo. 
 
 ## Data 
