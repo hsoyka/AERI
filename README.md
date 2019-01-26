@@ -49,13 +49,14 @@ Programs created by the host committee for each institute are stored in this rep
 
 #### AERI Institute Programs Structured Content
 
-##### General
+##### Overview
 This repo contains structured content for AERI institutes from 2009 through 2018. The structured content is stored in .xlsv (Microsoft Excel) files, one file per year. These are designed to be easily reused and are structured to be converted to CSV files. 
+
 The baseline unit of measure for these content files is the individual presentation, poster, workshop, or plenary talk. A paper session, for example, that has four presentations, will manifest itself in the structured content file as four entries--one for each presentation. In some cases, particularly for sessions like panel discussions, the authors had to make subtle judgements between representing that panel discussion as one entry, or breaking session into multiple entries--one for each panelist. When reasonable, the authors of this dataset chose to break sessions into multiple entries in an effort to highlight individual presentations and work. Individual presentations are still connected to their larger panel using the shared session title in the Session Title field.
 
 This structured content privileges presentations over people. Multi-authored papers,  posters, and workshops, where those presentations cannot be subdivided, have a single entry. Entries with multiple authors will have more than one name in the Presenter field and more than one institution in the Presenter Institution field. People wishing to use this data set to do analysis on individual or groups of authors will likely need to do some additional preparation before conducting their people-focused research.
 
-Some data contained inconsistencies when the program was compared with the host website and/or other sources. In order to resolve these challenges, we have been as inclusive as reasonably possible. When a paper or poster appears on the website, but not in the program, we have made the choice to include it in the data. In situations where an event on the program may not have happened due to cancellation or other reasons, we have kept it as part of the data in order to reflect the original intent and record of the host committee and participants.
+Some data contained inconsistencies when the program was compared with the host website and/or other sources. Not all institutes had a separate program, and in some cases the website or wiki no longer exists, or portions are unavailable as of 2017 (2010, 2011, 2012). No separate program was created by the host committee for the 2017 AERI. In order to resolve these challenges, we have been as inclusive as reasonably possible. When a paper or poster appears on the website, but not in the program, we have made the choice to include it in the data. In situations where an event on the program may not have happened due to cancellation or other reasons, we have kept it as part of the data in order to reflect the original intent and record of the host committee and participants.
 
 ##### Fields
 ###### ID Number
