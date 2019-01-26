@@ -21,8 +21,8 @@ Notes are also provided within the datasets on the source of content, with parti
 ### Websites
 
 * 2009: University of California, Los Angeles: https://aeri.gseis.ucla.edu/2009.htm
-* 2010: University of Michigan: https://aeri.gseis.ucla.edu/2010.htm
-* 2011: Simmons College: https://aeri.gseis.ucla.edu/2011.html
+* 2010: University of Michigan: https://aeri.gseis.ucla.edu/2010.htm [original wiki no longer accessible]
+* 2011: Simmons College: https://aeri.gseis.ucla.edu/2011.html [original wiki no longer accessible]
 * 2012: University of California, Los Angeles: https://aeri2012.wordpress.com/
 * 2013: University of Texas at Austin: https://www.ischool.utexas.edu/aeri2013/index.html
 * 2014: University of Pittsburgh: http://www.ischool.pitt.edu/aeri2014/
