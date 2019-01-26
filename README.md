@@ -2,9 +2,9 @@
 This repo contains conference programs and files from AERI (Archival Education and Research Institute), as well as datasets compiled by Heather Soyka and Eliot Wilczek that were derived from the programs and websites, as well as contact with participants, from the AERI institutes held from 2009 through 2018. 
 
 ## Data Authors and Compilation
-Heather Soyka, Assistant Professor, Kent State University
-Eliot Wilczek, Corporate Records and Archives Manager, The MITRE Corporation
-Mallory McCorkhill, Graduate Research Assistant, Kent State University
+* Heather Soyka, Assistant Professor, Kent State University
+* Eliot Wilczek, Corporate Records and Archives Manager, The MITRE Corporation
+* Mallory McCorkhill, Graduate Research Assistant, Kent State University
 
 ## Date
 These notes on the AERI datasets are current as of January 26, 2019.
