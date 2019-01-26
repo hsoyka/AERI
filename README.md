@@ -42,8 +42,7 @@ Programs collected from the institute websites and the host institutions may be 
 
 ## Data 
 
-### General
-There are two types of data in this repo. The first set are the programs of the AERI Institutes. The second set of data are structured content of AERI Institute programs. 
+There are two types of data in this repo. The first set are the programs of the AERI Institutes, created by the host organizations. The second set of data are structured content of AERI Institute programs, compiled by and created by the authors. 
 
 #### AERI Institute Programs
 Programs created by the host committee for each institute are stored in this repository by date and location. 
