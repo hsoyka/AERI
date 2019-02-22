@@ -38,14 +38,14 @@ In situations where information could still not be found, we reached out directl
 
 
 ### Programs
-Programs collected from the institute websites and the host institutions may be found in this repo. 
+Programs collected from the institute websites and the host institutions may be found in this repo. Note: no separate program was available for 2010 or 2017; we have created PDFs that contain/replicate the websites as they exist in 2019 for future use. 
 
 ## Data 
 
 There are two types of data in this repo. The first set are the programs of the AERI Institutes, created by the host organizations. The second set of data are structured content of AERI Institute programs, compiled by and created by the authors. 
 
 #### AERI Institute Programs
-Programs created by the host committee for each institute are stored in this repository by date and location. 
+Programs created by the host committee for each institute are stored in this repository by date and location. See note above regarding programs for each year.
 
 #### AERI Institute Programs Structured Content
 
@@ -56,7 +56,7 @@ The baseline unit of measure for these content files is the individual presentat
 
 Multi-authored papers,  posters, and workshops, where those presentations cannot be subdivided, are contained within a single entry. Entries with multiple authors will have more than one name in the Presenter field and more than one institution in the Presenter Institution field. For multi-authored work, the organization of this structured content privileges presentations over individual identification. Other researchers wishing to use this data set for analysis on individual or groups of authors will likely need to do some additional preparation before conducting their research.
 
-Some data contained inconsistencies when the program was compared with the host website and/or other sources. Not all institutes had a separate program, and in some cases the website or wiki no longer exists, or portions are unavailable as of 2017 (2010, 2011, 2012). No separate program was created by the host committee for the 2017 AERI. In order to resolve these challenges, we have been as inclusive as reasonably possible. When a paper or poster appears on the website, but not in the program, we have made the choice to include it in the data. In situations where an event on the program may not have happened due to cancellation or other reasons, we have kept it as part of the data in order to reflect the original intent and record of the host committee and participants.
+Some data contained inconsistencies when the program was compared with the host website and/or other sources. Not all institutes had a separate program, and in some cases the website or wiki no longer exists, or portions are unavailable as of 2017 (2010, 2011, 2012). No separate program was created by the host committee for the 2017 AERI, but we have captured the website portions that exist in 2018/2019. In order to resolve these challenges, we have been as inclusive as reasonably possible. When a paper or poster appears on the website, but not in the program, we have made the choice to include it in the data. In situations where an event on the program may not have happened due to cancellation or other reasons, we have kept it as part of the data in order to reflect the original intent and record of the host committee and participants.
 
 ##### Fields
 ###### ID Number
