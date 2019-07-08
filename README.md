@@ -92,4 +92,6 @@ This field indicates if a presentation was given concurrently with other present
 ###### Source and Notes
 This field documents the source from which the dataset authors gathered the information on a particular presentation. Most of the data in this dataset comes from institute programs. In some cases, the authors of this dataset reached out to the presentation authors for information on their presentations, especially their abstracts. Many presentation authors generously sent their abstracts to the dataset authors. See the Sources section of this notes document for additional details.  
 
+## Feedback
+You can provide feedback and request revisions in several ways, including: 1) by using GitHub to create an issue/pull request/fork the repo; or 2) by emailing/contacting the authors directly. 
 
