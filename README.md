@@ -8,6 +8,7 @@ This repo contains conference programs and files from AERI (Archival Education a
 
 ## Date
 These notes on the AERI datasets are current as of January 26, 2019.
+This data has also been published (and is available for download) via Figshare: https://figshare.com/articles/Archival_Education_Research_Institute_AERI_Programs_and_Reconciled_Data_2009-2018/7635983
 
 ## Background and Methods
 
