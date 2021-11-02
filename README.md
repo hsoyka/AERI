@@ -31,7 +31,8 @@ Notes are also provided within the datasets on the source of content, with parti
 * 2016: Kent State University: https://www.kent.edu/iSchool/archival-education-and-research-institute-aeri-2016
 * 2017: University of Toronto: http://aeri2017.org/
 * 2018: University of Alabama: https://aeri2018.ua.edu/
-
+* 2019: University of Liverpool: https://aeri2019.wordpress.com/
+* 2020: virtual AERI week: http://aeri.website/events/category/aeri-week-2020/ 
 
 In cases where the website has been removed or links are broken, we looked for information from the main AERI websites, hosted by UCLA. Those links are: 1) https://aeri.gseis.ucla.edu/index.htm  and 2) http://aeri.website/
 
