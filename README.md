@@ -45,8 +45,8 @@ Programs collected from the institute websites and the host institutions may be 
 
 There are three types of data in this repo. The first set are the programs of the AERI Institutes, created by the host organizations. The second set of data are structured content of AERI Institute programs, compiled by and created by the authors. The third set of data are the AERI hosting manuals, created by personnel who hosted AERI in particular years. 
 
-## AERI Manuals
-Manuals for AERI host committees are stored in this repository by creation date and location.
+#### AERI Manuals
+Manuals for/created by AERI host committees are stored in this repository by creation date and location.
 
 #### AERI Institute Programs
 Programs created by the host committee for each institute are stored in this repository by date and location. See note above regarding programs for each year.
