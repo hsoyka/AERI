@@ -1,5 +1,5 @@
 # AERI
-This repo contains conference programs and files from AERI (Archival Education and Research Institute), as well as datasets compiled by Heather Soyka and Eliot Wilczek that were derived from the programs and websites of the AERI institutes held from 2009 through 2018. 
+This repo contains conference programs and files from AERI (Archival Education and Research Institute), as well as datasets compiled by Heather Soyka and Eliot Wilczek that were derived from the programs and websites of the AERI institutes held from 2009 through 2018. Additional files added to this repo in 2021 include AERI hosting manuals created by authors at UCLA and the University of Texas at Austin. 
 
 ## Data Authors and Compilation
 * Heather Soyka, Assistant Professor, Kent State University
@@ -7,8 +7,8 @@ This repo contains conference programs and files from AERI (Archival Education a
 * Mallory McCorkhill, Graduate Research Assistant, Kent State University
 
 ## Date
-These notes on the AERI datasets are current as of July 1, 2019.
-This data is also available for download via Figshare: https://figshare.com/articles/Archival_Education_Research_Institute_AERI_Programs_and_Reconciled_Data_2009-2018/7635983
+These notes on the AERI datasets are current as of November 2, 2021.
+The 2009-2016 program data is also available for download via Figshare: https://figshare.com/articles/Archival_Education_Research_Institute_AERI_Programs_and_Reconciled_Data_2009-2018/7635983
 
 ## Background and Methods
 
@@ -43,7 +43,10 @@ Programs collected from the institute websites and the host institutions may be 
 
 ## Data 
 
-There are two types of data in this repo. The first set are the programs of the AERI Institutes, created by the host organizations. The second set of data are structured content of AERI Institute programs, compiled by and created by the authors. 
+There are three types of data in this repo. The first set are the programs of the AERI Institutes, created by the host organizations. The second set of data are structured content of AERI Institute programs, compiled by and created by the authors. The third set of data are the AERI hosting manuals, created by personnel who hosted AERI in particular years. 
+
+## AERI Manuals
+Manuals for AERI host committees are stored in this repository by creation date and location.
 
 #### AERI Institute Programs
 Programs created by the host committee for each institute are stored in this repository by date and location. See note above regarding programs for each year.
