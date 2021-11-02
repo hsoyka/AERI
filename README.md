@@ -12,6 +12,7 @@ The 2009-2016 program data is also available for download via Figshare: https://
 
 ## Article: Ten Years of AERI
 The published article that used these data (2009-2018) may be found in the journal Archival Science. If you need to read this, and do not have institutional access to the article, please reach out to one of the authors for a copy! Here is the citation: 
+
 Soyka, H.A., Wilczek, E. Ten years of Archival Education and Research Institutes: a snapshot of scholarship. Arch Sci 20, 221–244 (2020). https://doi.org/10.1007/s10502-020-09331-2
 
 ## Background and Methods
