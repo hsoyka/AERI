@@ -10,6 +10,10 @@ This repo contains conference programs and files from AERI (Archival Education a
 These notes on the AERI datasets are current as of November 2, 2021.
 The 2009-2016 program data is also available for download via Figshare: https://figshare.com/articles/Archival_Education_Research_Institute_AERI_Programs_and_Reconciled_Data_2009-2018/7635983
 
+## Article: Ten Years of AERI
+The published article that used these data (2009-2018) may be found in the journal Archival Science. If you need to read this, and do not have institutional access to the article, please reach out to one of the authors for a copy! Here is the citation: 
+Soyka, H.A., Wilczek, E. Ten years of Archival Education and Research Institutes: a snapshot of scholarship. Arch Sci 20, 221–244 (2020). https://doi.org/10.1007/s10502-020-09331-2
+
 ## Background and Methods
 
 The Building the Future of Archival Education and Research Initiative (AERI) represents a collaborative effort that was initiated amongst nine core U.S. academic institutions to stimulate the growth of a new generation of academics in archival education. The AERI project was initially developed with significant federal funding support from the Institute of Museum and Library Services under the Laura Bush- 21st Century Librarian Program, and is coordinated through the Center for Information as Evidence at the University of California, Los Angeles. 
