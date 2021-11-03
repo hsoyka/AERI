@@ -1,5 +1,5 @@
 # AERI
-This repo contains conference programs and files from AERI (Archival Education and Research Institute), as well as datasets compiled by Heather Soyka and Eliot Wilczek that were derived from the programs and websites of the AERI institutes held from 2009 through 2018. Additional files added to this repo in 2021 include AERI hosting manuals created by authors at UCLA and the University of Texas at Austin. 
+This repo contains conference programs and files from AERI (Archival Education and Research Institute), as well as datasets compiled by Heather Soyka and Eliot Wilczek that were derived from the programs and websites of the AERI institutes held from 2009 through 2018. Additional files added to this repo in 2021 include AERI hosting manuals and host committee reports created by authors at UCLA and the University of Texas at Austin, as well as structured data for the institute held in 2019 and meetings in 2020. 
 
 ## Data Authors and Compilation
 * Heather Soyka, Assistant Professor, Kent State University
